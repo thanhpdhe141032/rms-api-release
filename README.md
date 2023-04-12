@@ -1,4 +1,4 @@
-# FPT CAPSTONE PROJECT FALL 2022
+# FPT CAPSTONE FALL 2022
 # RMS Back End
 
 ![example badge](badges/succeeded.svg)
